@@ -1,5 +1,7 @@
 # 📊 Instagram Post Performance Analyzer
 
+![Dashboard Screenshot](Images/instagram growth analyser.png)
+
 ## Overview
 This project analyzes Instagram post performance using real engagement data to understand **what drives reach and follower growth**.  
 Using exploratory data analysis, small-data machine learning, and interpretable metrics, the project provides actionable insights for content strategy rather than chasing artificial accuracy.
