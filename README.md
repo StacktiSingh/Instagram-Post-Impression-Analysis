@@ -1,6 +1,6 @@
 # 📊 Instagram Post Performance Analyzer
 
-![Dashboard Screenshot](Images/screenshot.jpg)
+![Dashboard Screenshot](screenshot.jpg)
 
 ## Overview
 This project analyzes Instagram post performance using real engagement data to understand **what drives reach and follower growth**.  
