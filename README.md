@@ -9,7 +9,7 @@ A simple Linear Regression model is used **for interpretability**, not blind pre
 ---
 
 ## 📁 Dataset
-The dataset contains **131 Instagram posts** with the following features:
+The dataset contains **119 Instagram posts** with the following features:
 
 - Reach metrics:  
   `Impressions`, `From Home`, `From Hashtags`, `From Explore`, `From Other`
